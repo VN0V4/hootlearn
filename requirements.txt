@@ -1,0 +1,4 @@
+# Parses 100+ languages. Optional: without it a simpler regex parser is used.
+tree-sitter-language-pack>=1.21
+# Only needed for the optional AI explanations.
+anthropic>=1.13
